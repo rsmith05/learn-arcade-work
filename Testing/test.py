@@ -1,1 +1,3 @@
-print("This\nis\nmy\rsample.")
+import arcade
+
+arcade.open_window(600, 600, "Drawing Example")
