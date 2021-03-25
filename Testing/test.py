@@ -1,3 +1,3 @@
-import arcade
-
-arcade.open_window(600, 600, "Drawing Example")
+x = 3
+x + 1
+print(x)
